@@ -20,7 +20,7 @@ let countdown = n;
   return "done";
 }
 
-function doWhileLoop(num){
+
   var i = 0;
 
   function incrementVariable() {
@@ -29,7 +29,7 @@ function doWhileLoop(num){
   }
   function doWhileLoop(num) {
 
-  } do {
+do {
     console.log('I run one regardless.');
   } while (incrementVariable() < num+1);
 }
