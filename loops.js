@@ -13,8 +13,8 @@ return array;
 
 
 function whileLoop(n){
-  let countdown = n;
-  while (countdown > 0){
+  let n = 1;
+  while (n > 0){
     return n;
   }
 }
