@@ -13,7 +13,7 @@ return array;
 
 
 function whileLoop(n){
-  n = 1;
+
   while (n > 0){
     return n;
   }
